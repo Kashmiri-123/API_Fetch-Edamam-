@@ -13,7 +13,7 @@
 }
 .search-bar{
   width: 50%;
-  border-block:none;
+  border:none;
   padding: 12px;
 }
 
@@ -21,10 +21,11 @@
   background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
   border:none;
   padding: 10px 20px;
-  color: azure;
+  color: black;
+
 }
 
-.Recipie{
+.recipe{
   display:flex;
   justify-content: space-around;
   flex-wrap: wrap;
